@@ -5,4 +5,4 @@ date:   2023-11-24 11:04:00 +0100
 categories: Actualización del blog
 ---
 Se añade la librería ultrasonidos.h para su uso con Arduino.
-[enlace]<https://github.com/davidgsieiro/blog/ultrasonidos>
+Puedes verla en **[pincha aquí](https://davidgsieiro.github.io/blog/ultrasonidos)**.
