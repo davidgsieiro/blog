@@ -8,3 +8,4 @@ Se añade la librería ultrasonidos.h para su uso con Arduino.
 Puedes verla en **[pincha aquí](https://davidgsieiro.github.io/blog/ultrasonidos)**.
 
 Archivo ultrasonidos.h **[ultrasonidos.h](https://github.com/davidgsieiro/blog/ultrasonidos/ultrasonidos.h)**.
+Archivo ultrasonidos.h **[ultrasonidos.cpp](https://github.com/davidgsieiro/blog/ultrasonidos/ultrasonidos.cpp)**.
